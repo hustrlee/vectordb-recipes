@@ -1,6 +1,10 @@
+jupyter
 lancedb
 pylance
-openai==0.28
 datasets
 nbconvert
 pytest
+sentence-transformers
+tenacity
+volcengine-python-sdk[ark]
+huggingface-hub[cli]
