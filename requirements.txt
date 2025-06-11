@@ -6,5 +6,6 @@ nbconvert
 pytest
 sentence-transformers
 tenacity
+openai
 volcengine-python-sdk[ark]
 huggingface-hub[cli]
